@@ -1,0 +1,7 @@
+/* The integration's default injected base.css file */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import './blocks/header';
+@import './blocks/nav';
